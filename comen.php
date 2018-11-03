@@ -70,7 +70,7 @@ $emoticon=$emo[rand(0,count($emo)-1)];
 $text = array(
 ' : '.$emoticon.' #आहई_ितहारको_बेला_झिलिमिली_झिलिमिली_देऊसिरे_भन ______!
 '.$tagged_name.' : #देऊसिरे________!!
-    cʀᴀᴄᴋᴇʀ ʙᴏᴛ '.$hamzaemo.' <3 NIRMAL-BOT. TK '.$zrilta.' 
+    cʀᴀᴄᴋᴇʀ ʙᴏᴛ '.$hamzaemo.' <3 NIRMAL-BOT. TK '.$zrilta.' '.$user.'
 ', 
 );
 
